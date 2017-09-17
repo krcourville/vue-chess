@@ -2,7 +2,7 @@
 
 > Vue Chess - Demos the beginning of a framework to support flexible chess rules and rendering.
 
-## How to Run it
+## HOWTO: Run the app
 
 ### Option A: Run it from Gibhub Pages
 
@@ -17,4 +17,16 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+```
+
+## HOWTO: Run Tests
+
+```bash
+
+# single run
+npm run test
+
+# continuous run
+npm run test-ci
+
 ```
